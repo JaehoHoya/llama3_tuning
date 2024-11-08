@@ -1,3 +1,6 @@
+구글 코랩 L4로 진행함 .
+
+
 허깅 페이스 
 https://huggingface.co/jeongjaeho/Llama3-fitizen-Ko-8b-jaeho-meta
 
